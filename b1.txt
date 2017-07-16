@@ -1,2 +1,4 @@
 b1
 client change
+
+git object inspection
